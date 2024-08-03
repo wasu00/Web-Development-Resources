@@ -2,7 +2,7 @@
 Welcome to my Git repository! This repository serves as a collection of lecture notes and resources related to web development.
 
 ## Contents
-**Lecture Notes 📚:** This section contains detailed notes of web development lectures I've attended. Each lecture is organized into separate folders for easy navigation.
+**Lecture Notes 📚:** This section contains detailed notes of web development lectures. Each lecture is organized into separate folders for easy navigation.
 
 ## Getting Started
 To get started with this repository, you can follow these steps:
